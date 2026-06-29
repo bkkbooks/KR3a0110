@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0110/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御覽經史講義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:01:49.896117'
+  source:
+    repository: kanripo
+    path: KR3a0110/KR3a0110_000.txt
+hash: sha256:e572ac45e6b95480f62a9989ef71493a1b3cbc905387ed971cb849a9cb7a4432

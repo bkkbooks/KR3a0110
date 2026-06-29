@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0110/krp/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書子部一御覽經史講義總目儒家類
+  hash: sha256:0dfd0f8d8f79eb9ff3fbf78b8366587175e1222b5e76282c26514807e2422a10
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0110_WYG_004-1a, image: WYG0722/WYG0722-0131c.png}
+body:
+  text: 諸臣進講欽奉上諭一卷十五條周易八卷二百二十五篇書經六卷一百九十五篇詩經五卷一百九篇春秋一卷十四篇禮記四卷五十八篇周禮二卷二十四篇經四篇附論孟孝史三卷五十五篇性理一卷十七篇共三十一卷七百十六篇臣等謹案御覽經史講義三十一卷乾隆十四年奉敕編考講義之作莫盛于南宋其解經者如袁燮
+  hash: sha256:67a30fe12be80f1019c34351dba9d1af607bea739fcfd7e14f87ac1463a6ca88
+metadata:
+  title: 御覽經史講義
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:01:49.896117'
+  juan_title: 總目
+  source:
+    repository: kanripo
+    path: KR3a0110/KR3a0110_004.txt
+hash: sha256:e8107bf821b6b0a9927c4fe1c814d95216e0964f71263c339b3202eabd4debaf
