@@ -116,8 +116,10 @@ markers:
       ', id: KR3a0110_krp_004-bkkkrnewl15}
   - {type: line-break, offset: 115, content: '', id: KR3a0110_WYG_004-1b08}
   - {type: indent, offset: 115, content: 　　, id: KR3a0110_krp_004-bkkind13}
+  - {type: substitution, offset: 115, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20718}}
+  - {type: substitution, offset: 133, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18840}}
   - {type: 'kr:newline', offset: 134, content: '
 
       ', id: KR3a0110_krp_004-bkkkrnewl16}
   back: []
-hash: sha256:b94beac87a6403c62e371827566a33040b921c8301595366853b0d7f4b3e2c19
+hash: sha256:b666f43676dfccbdcf23c73cdc635a844681150a33cfe4ef430e4574e38c6d74

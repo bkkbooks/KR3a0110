@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3a0110_WYG_004-1a, image: WYG0722/WYG0722-0131c.png}
 body:
-  text: 諸臣進講欽奉上諭一卷十五條周易八卷二百二十五篇書經六卷一百九十五篇詩經五卷一百九篇春秋一卷十四篇禮記四卷五十八篇周禮二卷二十四篇經四篇附論孟孝史三卷五十五篇性理一卷十七篇共三十一卷七百十六篇臣等謹案御覽經史講義三十一卷乾隆十四年奉勅編考講義之作莫盛于南宋其解經者如袁爕
-  hash: sha256:947384c138c7de1bb0a761944fee6de77726ec88a8797df6a509d4a0a8ff0cfc
+  text: 諸臣進講欽奉上諭一卷十五條周易八卷二百二十五篇書經六卷一百九十五篇詩經五卷一百九篇春秋一卷十四篇禮記四卷五十八篇周禮二卷二十四篇經四篇附論孟孝史三卷五十五篇性理一卷十七篇共三十一卷七百十六篇臣等謹案御覽經史講義三十一卷乾隆十四年奉敕編考講義之作莫盛于南宋其解經者如袁燮
+  hash: sha256:67a30fe12be80f1019c34351dba9d1af607bea739fcfd7e14f87ac1463a6ca88
 metadata:
   title: 御覽經史講義
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3a0110/KR3a0110_004.txt
-hash: sha256:07598be4ee50086da6903898d1139534c65d25dd71a2b1f529885ce889d43953
+hash: sha256:e8107bf821b6b0a9927c4fe1c814d95216e0964f71263c339b3202eabd4debaf
